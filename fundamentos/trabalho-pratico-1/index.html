@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalho Prático do Módulo 1 </title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="item">
+            <h4>Números por extenso</h4>
+            <h6>Escolha um número entre 0 e 999:</h6>
+        </div>
+        <div class="item">
+            <p class="range-field">
+                <input type="range" id="myRange" min="0" max="999" value="500" />
+            </p>
+        </div>
+        <div class="item">
+            <div class="row">
+                <form class="col s12">
+                  <div class="row">
+                    <div class="input-field col s6">
+                      <label for="numeroAtual">Número atual</label>
+                      <input placeholder="Número atual" id="numeroAtual" type="text" readonly>
+                    </div>
+                    <div class="input-field col s6">
+                      <label for="numeroPorExtenso">Número por extenso</label>
+                      <input placeholder="Número por extenso" id="numeroPorExtenso" type="text" readonly>
+                    </div>
+                  </div>
+                </form>
+            </div>    
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="./js/script.js"></script> 
+</body>
+</html>
