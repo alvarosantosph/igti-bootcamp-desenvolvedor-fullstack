@@ -2,6 +2,21 @@
 
 ## Repositório para armazenar conteúdos do Bootcamp de Desenvolvedor Full Stack da IGTI.
 
+<div align="left">
+  <img src="https://img.shields.io/badge/-HTML%205-orangered?style=for-the-badge" alt="HTML 5">
+  <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge" alt="CSS">
+  <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript">
+  
+  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge" alt="Node.js">
+  <img src="https://img.shields.io/badge/-Express-white?style=for-the-badge" alt="Express">
+  
+  <img src="https://img.shields.io/badge/-React-deepskyblue?style=for-the-badge" alt="React">
+  
+  <img src="https://img.shields.io/badge/-Mongo%20DB-limegreen?style=for-the-badge" alt="Mongo DB">
+  <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge" alt="GIT">
+  <img src="https://img.shields.io/badge/-Heroku-indigo?style=for-the-badge" alt="Heroku">
+</div>
+
  
 ### Conteúdo Programático:  
 
