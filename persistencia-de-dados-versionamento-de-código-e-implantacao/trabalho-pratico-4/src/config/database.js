@@ -3,7 +3,7 @@ import mongoose from 'mongoose';
 mongoose.Promise = global.Promise;
 
 const config = {
-  uri: 'mongodb+srv://root:root@cluster0.rvqkd.mongodb.net/account?retryWrites=true&w=majority',
+  uri: '***',
   options: { useNewUrlParser: true, useUnifiedTopology: true },
 };
 
